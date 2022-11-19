@@ -6,8 +6,11 @@ I was tasked with performing and analysis on PyBer ride sharing data in order to
 visualizations were also created in order to better display the information.
 
 # Results
- #Summary Statistics
+
 ![image](https://user-images.githubusercontent.com/111592990/202876122-0609b8b0-0a2a-4bd6-bb36-58bb429d8d09.png)
+
+
+![image](https://user-images.githubusercontent.com/111592990/202876181-12e10380-7b5e-402f-a7c7-fa809786c5bf.png)
 
 
 There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
