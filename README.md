@@ -20,5 +20,5 @@ The above images show some key findings from the analysis:
 
 
 
-# Summary
+# Summar
 Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
