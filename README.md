@@ -12,8 +12,12 @@ visualizations were also created in order to better display the information.
 
 ![image](https://user-images.githubusercontent.com/111592990/202876181-12e10380-7b5e-402f-a7c7-fa809786c5bf.png)
 
+The above images show some key findings from the analysis:
+-Urban cities provide the most total revenue at $39,854.38 , however Rural cities have the higest average fare per ride
+-Urban cities account for the highest total number of rides at 1,625 rides and the highest total amount of drivers at 2,405 drivers
+-Rural cites have only 78 total drivers but the earn approx. 3xs more than the drivers in the urban cities.
+-Suburban cities have an average fare per driver that is aligned with the average fare per ride
 
-There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
 
 
 # Summary
