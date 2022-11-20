@@ -1,11 +1,11 @@
 # PyBer_Analysis
 
 
-# Overview of the Analysis
+# Overview of the Analysis:
 I was tasked with performing and analysis on PyBer ride sharing data in order to help improve access in underserved neigborhoods. The analysis consisted of obtaining summary statistics of the data.
 visualizations were also created in order to better display the information.
 
-# Results
+# Results:
 
 ![image](https://user-images.githubusercontent.com/111592990/202876122-0609b8b0-0a2a-4bd6-bb36-58bb429d8d09.png)
 
@@ -24,5 +24,14 @@ The above images show some key findings from the analysis:
 
 
 
-# Summa
-Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+# Summay:
+
+My following reccomendations for Pyber are based on the above information and analysis of Pyber data:
+
+•	Focus on Rural areas , these seemed to be the most underserved and with the lowest amount of affordablity
+
+•	Providing incentives such as discounts on first ride for those in rural area could help increase the number of rides in those cities.
+
+•	Providing incentives for drivers can also help increase the number of drivers , for example providing incentives for drivers urban drivers to take more rides in rural cities
+
+
